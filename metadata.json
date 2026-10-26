@@ -1,0 +1,6 @@
+{
+  "name": "NourishLoop - Surplus Food Rescue & Safe Distribution",
+  "description": "Connecting food donors with verified NGOs, dispatching volunteer couriers, and tracking safe food transit with real-time quality & temperature compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
